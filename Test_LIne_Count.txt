@@ -1,0 +1,5 @@
+This is a file to count the number of lines
+This is the second line in the files
+This is the third line in the file
+This is the fourth line in the file
+The answer that should be returned is 5.
